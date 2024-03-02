@@ -33842,8 +33842,8 @@ body:not(.cursor-is--active) .team-carousel-tabs__navigation li {
 @media (min-width: 1200px) {
   .team-info-page .team-player__photo img {
     position: relative;
-    left: 60%;
-    height: 100%;
+    left: 50%;
+    height: 95%;
     margin-left: 0;
     margin-right: 0;
     -webkit-transform: translate3d(-50%, 10%, 0);
