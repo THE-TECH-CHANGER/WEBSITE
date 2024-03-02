@@ -15,3 +15,7 @@ Description:  You can add your custom CSS here and it will overwrite template st
 .color-white{
     color: white;
 }
+
+.color-black{
+    color: black;
+}
