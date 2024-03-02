@@ -33828,8 +33828,6 @@ body:not(.cursor-is--active) .team-carousel-tabs__navigation li {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 101%;
-  width: 101%;
   opacity: 0.75;
   -webkit-transform: translate3d(0, 7.5%, 0);
           transform: translate3d(0, 7.5%, 0);
